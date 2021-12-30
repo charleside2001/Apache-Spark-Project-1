@@ -1,2 +1,2 @@
 # SparkCourse
-Apache Spark Course from Frank Kanes Taming Big Data with Apache Spark and Python
+Apache Spark Course - Reference "Frank Kanes Taming Big Data with Apache Spark and Python"
